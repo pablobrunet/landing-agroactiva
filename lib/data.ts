@@ -16,7 +16,7 @@ export const siteConfig = {
 export const socialLinks = {
   youtube: "https://www.youtube.com/channel/UCin3S41RclnrBrqMYPEYlrA",
   linkedin: "https://ar.linkedin.com/in/pablobrunet",
-  instagram: "https://www.instagram.com/soypablobrunet/"
+  instagram: "https://www.instagram.com/soypablobrunet.ai/"
 };
 
 export const herramientas: Record<HerramientaId, Herramienta> = {
