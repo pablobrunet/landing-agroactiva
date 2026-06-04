@@ -1,0 +1,7 @@
+<svg width="160" height="48" viewBox="0 0 160 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="48" height="48" rx="16" fill="#12121A"/>
+  <rect x="1" y="1" width="46" height="46" rx="15" stroke="rgba(255,255,255,0.12)"/>
+  <path d="M14 31V17H18.2L24 26.4L29.8 17H34V31H30.2V23.2L24.8 31H23.2L17.8 23.2V31H14Z" fill="#F0F0FF"/>
+  <text x="60" y="21" fill="#F0F0FF" font-family="Arial, sans-serif" font-size="16" font-weight="700">IA para</text>
+  <text x="60" y="38" fill="#9090AA" font-family="Arial, sans-serif" font-size="16" font-weight="700">Ventas</text>
+</svg>
