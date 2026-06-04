@@ -49,7 +49,7 @@ export default function RootLayout({
   children: ReactNode;
 }>) {
   return (
-    <html lang="es" className="dark">
+    <html lang="es" className="dark" suppressHydrationWarning>
       <body className={`${sora.variable} ${inter.variable} ${jetbrainsMono.variable}`}>
         <div className="relative min-h-screen overflow-x-clip">
           <Navbar />
